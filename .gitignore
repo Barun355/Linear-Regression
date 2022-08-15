@@ -1,0 +1,11 @@
+# Common not in use file should be ignored
+
+*.temp
+*.log
+
+
+# Not necessary folder should be ignored
+temp/
+TEMP/
+log/
+LOG/
